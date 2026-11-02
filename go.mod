@@ -1,4 +1,4 @@
-module github.com/mutenify/pet_projects
+module github.com/mutenify/taskflow
 
 go 1.26.2
 
